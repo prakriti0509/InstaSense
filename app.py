@@ -701,7 +701,7 @@ if st.session_state.page == "Home":
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# PAGE: ADD POST — with Emoji Picker
+# PAGE: ADD POST — with Emoji Pick
 # ══════════════════════════════════════════════════════════════════════════════
 elif st.session_state.page == "AddPost":
     st.markdown("""<div class="page-header">
